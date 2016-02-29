@@ -1,8 +1,7 @@
 // INITIALIZERS
 
 
-// init functions searching
-// through data attributes in dom nodes
+// init functions searching data attributes in dom nodes
 
 module.exports = function() {
 
